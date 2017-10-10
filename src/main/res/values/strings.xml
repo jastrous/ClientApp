@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Application Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="ls_login_button_string">Log In</string>
+    <string name="ls_username_string">Employee ID</string>
+    <string name="ls_password_string">Password</string>
+    <string name="ls_welcome_string">Welcome, please login</string>
+    <string name="ls_new_employee_string">New Employee</string>
+    <string name="ce_string">Please enter info below to create a new employee account</string>
+    <string name="ce_fname_string">First name</string>
+    <string name="ce_lname_string">Last name</string>
+    <string name="ce_password_string">Password</string>
+    <string name="ce_create_employee_string">Create</string>
+    <string name="ce_cancel_string">Cancel</string>
+    <string name="hs_welcome_string">Welcome {name}! What would you like to do next?</string>
+    <string name="hs_transaction_string">Start Transaction</string>
+    <string name="hs_create_employee_string">Create Employee</string>
+    <string name="hs_sr_product_string">Sales Report: Product</string>
+    <string name="hs_sr_cashier_string">Sales Report: Cashier</string>
+    <string name="hs_logout_string">Log Out</string>
+</resources>
